@@ -66,7 +66,7 @@ import { Configuration }                                     from '../configurat
 })
 export class DefaultService {
 
-    protected basePath = 'http://localhost';
+    protected basePath = 'https://api.dev.manage-space.com';
     public defaultHeaders = new HttpHeaders();
     public configuration = new Configuration();
     public encoder: HttpParameterCodec;
