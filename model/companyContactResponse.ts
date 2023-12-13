@@ -42,7 +42,7 @@ export interface CompanyContactResponse {
      */
     firstName: string;
     /**
-     * Middle name
+     * Middle initial
      */
     middleInitial?: string;
     /**

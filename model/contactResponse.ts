@@ -45,7 +45,7 @@ export interface ContactResponse {
      */
     firstName: string;
     /**
-     * Middle name
+     * Middle initial
      */
     middleInitial?: string;
     /**

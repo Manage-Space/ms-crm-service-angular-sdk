@@ -34,7 +34,7 @@ export interface UpdateContactRequest {
      */
     firstName: string;
     /**
-     * Middle name
+     * Middle initial
      */
     middleInitial?: string;
     /**

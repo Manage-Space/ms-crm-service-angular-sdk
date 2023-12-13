@@ -44,7 +44,7 @@ export interface AccountResponseContact {
      */
     firstName: string;
     /**
-     * Middle name
+     * Middle initial
      */
     middleInitial?: string;
     /**
